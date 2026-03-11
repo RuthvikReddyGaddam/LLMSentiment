@@ -12,4 +12,3 @@
 
 - Processed and indexed large-scale text data (movie descriptions) using LangChain's text splitting and embedding techniques.
 
-This is a work in progress!
